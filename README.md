@@ -6,10 +6,10 @@
 
 ## Project Overview
 
-Provide a short and concise overview of the project. Mention the problem it solves, the data used, and the key outcomes or findings.
+This project will determine what, if any, socioeconomic factors contribute to ACT and SAT scoring. The socioeconomic data examined incudes unemployment rates, median household income, and percentages such as students receiving free lunch and students living in a household with married parents per school zone. The ACT and SAT scores were collected from public state reporting, and is reported by city and zip code. This analysis intends to answer what the direct correlation of economic hardship is on students preparing for college, and what specific factors can be changed to improve entrance exam scores.
 
-- **Objective:** Clearly state the main goal of the project.
-- **Domain:** (e.g., Healthcare, Finance, E-commerce, etc.)
+- **Objective:** Establish relationships between socioeconomic factors and school performance
+- **Domain:** Education
 - **Key Techniques:** (e.g., Regression, Classification, Clustering, NLP, Time Series)
 
 ---
@@ -28,8 +28,9 @@ Provide a short and concise overview of the project. Mention the problem it solv
 
 ## Data
 
-- **Source:** Link to the data source(s) 
-- **Description:** Brief overview of the dataset features, size, and format
+- **Source:** EdGap data: https://github.com/brian-fischer/DATA-5100/blob/main/EdGap_data.xlsx
+              ACT / SAT scores: https://www.dropbox.com/scl/fi/fkafjk8902sq8ptxh94r2/ccd_sch_029_1617_w_1a_11212017.csv?rlkey=gucrdz5f6e38bezz2y3yalxbw&dl=0
+- **Description:** Excel document and CSV file containing socioeconomic data per school zone and ACT and SAT scores respectively
 - **License:** (if applicable)
 
 ---
@@ -48,7 +49,7 @@ Include a short discussion of the findings and what they imply.
 
 ## Authors
 
-- Your Name - [@yourhandle](https://github.com/yourhandle)
+- Hannah Belville - [@belvilleh](https://github.com/belvilleh)
 
 ---
 
