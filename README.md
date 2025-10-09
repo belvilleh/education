@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-This project will determine what, if any, socioeconomic factors contribute to ACT and SAT scoring. The socioeconomic data examined incudes unemployment rates, median household income, and percentages such as students receiving free lunch and students living in a household with married parents per school zone. The ACT and SAT scores were collected from public state reporting, and is reported by school. This analysis intends to answer what the direct correlation of economic hardship is on students preparing for college, and what specific factors can be changed to improve entrance exam scores.
+This project will determine what, if any, socioeconomic factors contribute to ACT and SAT scoring. The socioeconomic data examined incudes unemployment rates, median household income, and percentages such as students receiving free lunch and students living in a household with married parents per school zone. The ACT and SAT scores were collected from public state reporting, and is reported by school. This analysis intends to answer what the direct correlation of economic hardship is on students preparing for college, and what specific factors can be changed to improve entrance exam scores. Additionally, EDGE (Education Demographics and Geographic Estimates) provides an estimated poverty ratio for each school zone, which could further establish the link between poverty rates and exam scores.
 
 - **Objective:** Establish relationships between socioeconomic factors and school performance
 - **Domain:** Education
@@ -28,8 +28,8 @@ This project will determine what, if any, socioeconomic factors contribute to AC
 
 ## Data
 
-- **Source:** EdGap data: https://github.com/brian-fischer/DATA-5100/blob/main/EdGap_data.xlsx
-              ACT / SAT scores: https://www.dropbox.com/scl/fi/fkafjk8902sq8ptxh94r2/ccd_sch_029_1617_w_1a_11212017.csv?rlkey=gucrdz5f6e38bezz2y3yalxbw&dl=0
+- **Source:** EdGap data: https://www.edgap.org/
+              ACT / SAT scores: https://nces.ed.gov/ccd/pubschuniv.asp
 - **Description:** Excel document and CSV file containing socioeconomic data per school zone and ACT and SAT scores respectively
 - **License:** (if applicable)
 
