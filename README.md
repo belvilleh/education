@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-This project will determine what, if any, socioeconomic factors contribute to ACT and SAT scoring. The socioeconomic data examined incudes unemployment rates, median household income, and percentages such as students receiving free lunch and students living in a household with married parents per school zone. The ACT and SAT scores were collected from public state reporting, and is reported by city and zip code. This analysis intends to answer what the direct correlation of economic hardship is on students preparing for college, and what specific factors can be changed to improve entrance exam scores.
+This project will determine what, if any, socioeconomic factors contribute to ACT and SAT scoring. The socioeconomic data examined incudes unemployment rates, median household income, and percentages such as students receiving free lunch and students living in a household with married parents per school zone. The ACT and SAT scores were collected from public state reporting, and is reported by school. This analysis intends to answer what the direct correlation of economic hardship is on students preparing for college, and what specific factors can be changed to improve entrance exam scores.
 
 - **Objective:** Establish relationships between socioeconomic factors and school performance
 - **Domain:** Education
