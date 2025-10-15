@@ -30,6 +30,7 @@ This project will determine what, if any, socioeconomic factors contribute to AC
 
 - **Source:** EdGap data: https://www.edgap.org/
               ACT / SAT scores: https://nces.ed.gov/ccd/pubschuniv.asp
+              EDGE Poverty Estimates: https://nces.ed.gov/programs/edge/Economic/NeighborhoodPoverty
 - **Description:** Excel document and CSV file containing socioeconomic data per school zone and ACT and SAT scores respectively
 - **License:** (if applicable)
 
