@@ -10,7 +10,7 @@ This project will determine what, if any, socioeconomic factors contribute to AC
 
 - **Objective:** Establish relationships between socioeconomic factors and school performance
 - **Domain:** Education
-- **Key Techniques:** (e.g., Regression, Classification, Clustering, NLP, Time Series)
+- **Key Techniques:** Regression, LOWESS smoothing, hexbin clustering
 
 ---
 
@@ -32,19 +32,19 @@ This project will determine what, if any, socioeconomic factors contribute to AC
               ACT / SAT scores: https://nces.ed.gov/ccd/pubschuniv.asp
               EDGE Poverty Estimates: https://nces.ed.gov/programs/edge/Economic/NeighborhoodPoverty
 - **Description:** Excel document and CSV file containing socioeconomic data per school zone and ACT and SAT scores respectively
-- **License:** (if applicable)
+- **License:** 
 
 ---
 
 ## Analysis
 
-Describe the notebooks and/or scripts used to perform the analysis. Specify the order in which the code should be run to reproduce the results.
+This analysis should be run beginning to end, and does include an optional section to export and reimport the cleaned data frame. The notebook contains markdown notes of the process taken to perform these steps, and code that will provide various plots and text outputs to analyze the data files included in this repository. Some code cells include optional testing and visualizing that I produce with the assitance of an AI bot, as well as to help me understand how the code can be used to produce different outputs.
 
 ---
 
 ## Results
 
-Include a short discussion of the findings and what they imply.
+Socioeconomic indicators do provide meaningful explanatory evidence for average ACT scores, but data preparation and visualization shows a need for more complete data. 
 
 ---
 
@@ -63,5 +63,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 - Tools/libraries used
+    pandas
+    numpy
+    seaborn
+    matplotlib.pyplot
+    scipy.stats
+    plotly
+    sklearn
 - Tutorials or papers referenced
+    N/A
 - Inspiration or collaborators
+    Self completed
